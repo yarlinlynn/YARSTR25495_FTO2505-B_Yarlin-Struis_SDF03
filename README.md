@@ -1,8 +1,8 @@
-# [SDF06] Challenge: CodeSpace Pets Instagram Profile 🐕🐈‍⬛
+# [SDF06] Challenge: CS Pets Instagram Profile 🐕🐈‍⬛
 
 Welcome to the CodeSpace Pets Instagram Profile project, where you'll get hands-on experience applying CSS layout concepts. In this project, we will have fun recreating a simplified version of an Instagram user profile page. You aim to practice using CSS for styling and layout to create a visually appealing and responsive web page.
 
-**Check out the Starter Code:** https://github.com/CodeSpace-Academy/Module_6R_StudentNo_Classcode_Group_Name-Surname_SDF06_R
+**Check out the Starter Code:** [Here](https://github.com/CodeSpace-Academy/SDF03-2025/tree/main)
 
 ![!\[alt text\](CodeSpacePetsInstagram.gif)](CodeSpacePetsInstagram.gif)
 
