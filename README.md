@@ -2,7 +2,7 @@
 
 Welcome to the CodeSpace Pets Instagram Profile project, where you'll get hands-on experience applying CSS layout concepts. In this project, we will have fun recreating a simplified version of an Instagram user profile page. You aim to practice using CSS for styling and layout to create a visually appealing and responsive web page.
 
-**Check out the Starter Code:** [Here](https://github.com/CodeSpace-Academy/SDF03-2025/tree/main)
+**Check out the Starter Code in this Repo to get you up and running ✨**
 
 ![!\[alt text\](CodeSpacePetsInstagram.gif)](CodeSpacePetsInstagram.gif)
 
@@ -13,7 +13,7 @@ Welcome to the CodeSpace Pets Instagram Profile project, where you'll get hands-
 - Create a responsive web page that adapts to different screen sizes.
 - Practice using basic HTML and CSS to create a cohesive user interface.
 
-**Project Requirements:**
+**Challenge Requirements:**
 
 1. **Start with Provided HTML**: You'll begin with a starter HTML code provided in the project. 
 2. **CSS Styling**: Your task is to write CSS code to style the HTML elements and create the desired layout. Pay attention to the following:
@@ -49,10 +49,6 @@ You will submit the GitHub project link with your final project files to the LMS
 1. Rename your project with your student number, group number and coach name. 
 - ⚠️ Here is an example repo name: Module_06_StudentNo_Classcode_Group_Name-Surname_SDF03 ⚠️
 
-2. Submit your GitHub Repo link through the LMS. You will find this in the LMS [**[Projects](https://learn.codespace.co.za/projects)**] tab.
-
-
-
-1. Submit the GitHub project link with your final project files to the LMS. You will find this in the LMS [**[Projects](https://learn.codespace.co.za/projects)**] tab.
+2. Submit the GitHub project link with your final project files to the LMS. You will find this in the LMS [**[Projects](https://learn.codespace.co.za/projects)**] tab.
 
 Enjoy the project, and have fun turning HTML into a stylish Instagram profile!
