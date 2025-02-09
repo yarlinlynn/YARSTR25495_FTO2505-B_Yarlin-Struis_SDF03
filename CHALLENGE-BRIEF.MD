@@ -16,6 +16,8 @@ Your task is to **style and structure the CodeSpace Pets Instagram Profile page*
 
 A well-styled and structured **Instagram-style profile page** that closely matches the provided reference, follows best practices for **CSS layout**, includes interactive elements, and is successfully pushed to GitHub and submitted via the LMS.  
 
+![CodeSpace Pets Instagram Profile](CodeSpacePetsInstagram.gif)  
+
 ### ✅ **Pre-Submission Checklist**  
 
 Before submitting your project, ensure the following:  
