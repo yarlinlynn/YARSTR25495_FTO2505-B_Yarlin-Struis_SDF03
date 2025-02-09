@@ -28,6 +28,7 @@ Before submitting your project, ensure the following:
 - [ ] **Navigation & Interactive Elements Work Correctly** (Hover effects, buttons, and image grid behavior).  
 - [ ] **Responsive Design is Implemented** (Page adjusts for different screen sizes).  
 - [ ] **Repo is Public & Accessible** (Ensure the link works before submission).  
+- [ ] **Featured Your Pet** (Snuck a pic of your pet in - if you have one).  
 
 Double-check everything before submitting—**attention to detail matters!**  
 
