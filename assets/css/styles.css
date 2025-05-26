@@ -1,11 +1,22 @@
-/* Base Styles */
+/*-----------------------------------*\
+  #BASE STYLES
+\*-----------------------------------*/
 
 :root {
-  --background-color: #fafafa;
-  --main-color: #2f4928;
-  --border-color: rgba(25, 78, 25, 0.966);
+  /* --page-color: #fafafa;
+  --main-color: #2f4928; */
 
-  font-size: 10px;
+  /* Colors */
+  --page-color: :rgb(250, 250, 250);
+  --main-color:rgb(47, 73, 40);
+  --img-border: rgba(25, 78, 25, 0.966);
+  --loader-color:rgb(155, 153, 153);
+
+  /* Font Family */
+  --main-font: "Open Sans", Arial, sans-serif;
+
+  /* Font Size */
+  --main-font-size: 10px;
 }
 
 /*-----------------------------------*\
@@ -21,15 +32,15 @@
 }
 
 html {
-  font-family: "Open Sans", Arial, sans-serif;
-  font-size: 10px;
+  font-family: var(--main-font);
+  font-size: var(--main-font-size);
   scroll-behavior: smooth;
 }
 
 body {
   min-height: 100vh;
-  background-color: #fafafa;
-  color: #262626;
+  background-color: var(--page-color);
+  color: var(--main-color);
   padding-bottom: 3rem;
 }
 
@@ -108,7 +119,7 @@ header {
 }
 
 .profile-image img {
-  border: 5px solid var(--border-color);
+  border: 5px solid var(--img-border);
   border-radius: 50vh;
 }
 
@@ -133,7 +144,7 @@ header {
   border: 1px solid var(--main-color);
   border-radius: 5px;
   padding: 4px 15px;
-  background-color: var(--background-color);
+  background-color: var(--page-color);
   letter-spacing: 0.5px;
 }
 
@@ -222,14 +233,18 @@ main {
   right: 10px;
 }
 
+/*-----------------------------------*\
+  #LOADER STYLES & ANIMATION
+\*-----------------------------------*/
+
 .loader {
-  width: 70px;
-  height: 70px;
-  border: 8px solid grey;
-  border-radius: 50%;
-  border-top-color: white;
-  animation: spin 1s linear infinite;
-  margin: 2rem auto;
+width: 60px;
+    height: 60px;
+    border: 8px solid var(--loader-color);
+    border-radius: 50%;
+    border-top-color: white;
+    animation: spin 1s linear infinite;
+    margin: 2rem auto;
 }
 
 @keyframes spin {

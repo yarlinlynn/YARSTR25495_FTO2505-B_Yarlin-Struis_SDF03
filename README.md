@@ -15,7 +15,7 @@ Welcome to your **CSS Layout Challenge!** This project is all about applying **C
 - Learn CSS animation
 - Use Grid and Flexbox for Layout
 - Use Git to track changes and push to GitHub
-  <br/>
+<br/>
 
 ## 🎨 Project Preview
 
