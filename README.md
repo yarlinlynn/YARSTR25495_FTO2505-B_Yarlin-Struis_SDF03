@@ -19,4 +19,4 @@ Welcome to your **CSS Layout Challenge!** This project is all about applying **C
 
 ## 🎨 Project Preview
 
-![CodeSpace Pets Instagram Profile](CodeSpacePetsInstagram.gif)
+![alt text](assets/CodeSpacePetsInstagram.gif)
